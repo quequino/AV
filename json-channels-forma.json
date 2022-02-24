@@ -1,0 +1,32 @@
+{
+	'03/09/2021':
+	{
+		'ELSALVADOR-UNITEDSTATES(FIFAWORLDCUPQUALIFIERS)':
+		{
+			'hora':'04:05','sport':'SOCCER','link':
+			{'spa':'av29'}
+		},
+		'PERU-URUGUAY(FIFAWORLDCUPQUALIFIERS)':
+		{
+			'hora':'03:00','sport':'SOCCER','link':
+			{'por':'av5','spa':'av21'}
+		},
+		'MEXICO-JAMAICA(FIFAWORLDCUPQUALIFIERS)':
+		{
+			'hora':'04:00','sport':'SOCCER','link':
+			{'spa':'av23'}
+	},
+	'04/09/2021':
+	{
+		'CHILE-BRAZIL(FIFAWORLDCUPQUALIFIERS)':
+		{
+			'hora':'03:00','sport':'SOCCER','link':
+			{'por':'av1','spa':'av11'}
+		},
+		'ELSALVADOR-UNITEDSTATES(FIFAWORLDCUPQUALIFIERS)':
+		{
+			'hora':'04:05','sport':'SOCCER','link':
+			{'spa':'av29'}
+		}
+	}
+}
